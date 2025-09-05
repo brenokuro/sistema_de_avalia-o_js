@@ -1,10 +1,10 @@
 const mensagens = [
-  "Sentimos muito pela sua experiência negativa", // índice 0
-  "Que pena que sua experiência não foi boa",      // índice 1
-  "Obrigado pelo seu feedback",                   // índice 2
-  "Ficamos felizes que sua experiência foi boa, vamos melhorar ainda mais", // índice 3
-  "Que ótimo que sua experiência foi excelente",   // índice 4
-  "Uau! Ficamos muito felizes com sua experiência excelente" // índice 5
+  "Sentimos muito pela sua experiência negativa", 
+  "Que pena que sua experiência não foi boa",      
+  "Obrigado pelo seu feedback",                   
+  "Ficamos felizes que sua experiência foi boa, vamos melhorar ainda mais", 
+  "Que ótimo que sua experiência foi excelente",   
+  "Uau! Ficamos muito felizes com sua experiência excelente" 
 ]
 
 let nota = 1
